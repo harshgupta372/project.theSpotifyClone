@@ -15,7 +15,7 @@ Technical Details:
 
 * HTML Structure: Uses semantic HTML for clear organization and accessibility.
 * CSS Styling: Leverages media queries for responsive design and implements clean and maintainable code practices.
-* JavaScript Functionality: Orchestrates player interactions, manages playback controls, and (if implemented) handles simulated playlist functionality.
+* JavaScript Functionality: Orchestrates player interactions, manages playback controls, and handles simulated playlist functionality.
 
 Getting Started:
 
